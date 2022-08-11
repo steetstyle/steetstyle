@@ -14,9 +14,6 @@
 - 🎾 I like to play all sports and skateboarding on a daily basis
 - 🤓 I like to learn about new tech and blog
 
-## 📫 How to reach me?
-
-Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 ## 📈 GitHub Stats
 <br>
