@@ -8,10 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Avneesh's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi, I'm Avneesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
-
-![Twitter header - 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png)
-
+<h1 align="center">Hi, I'm Furkan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
 ### A few things about me
 
