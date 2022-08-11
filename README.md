@@ -6,5 +6,31 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steetstyle&repo=Girift)](https://github.com/steetstyle/Girift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steetstyle&repo=LearnAsOur)](https://github.com/steetstyle/LearnAsOur)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steetstyle&show_icons=true&theme=radical&count_private=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Avneesh's+GitHub+Profile!)](https://git.io/typing-svg)
+
+<h1 align="center">Hi, I'm Avneesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
+
+![Twitter header - 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png)
+
+
+### A few things about me
+
+- 💻 I'm programmer, designer, physics lover and student
+- 📍 I'm from Turkey
+- 🕸️ I am passionate about building apps and games
+- 🤝 I like to meet new people
+- 🎾 I like to play all sports and skateboarding on a daily basis
+- 🤓 I like to learn about new tech and blog
+
+## 📫 How to reach me?
+
+Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
+
+## 📈 GitHub Stats
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=steetstyle&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=steetstyle&theme=radical" />
+</p>
+
 
