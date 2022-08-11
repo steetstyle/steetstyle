@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**steetstyle/steetstyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+steetstyle's+GitHub+Profile!)](https://git.io/typing-svg)
-
-<h1 align="center">Hi, I'm Furkan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steetstyle&repo=Girift)](https://github.com/steetstyle/Girift)
