@@ -10,8 +10,6 @@
 - 💻 I'm programmer, designer, physics lover and student
 - 📍 I'm from Turkey
 - 🕸️ I am passionate about building apps and games
-- 🤝 I like to meet new people
-- 🎾 I like to play all sports and skateboarding on a daily basis
 - 🤓 I like to learn about new tech and blog
 
 
