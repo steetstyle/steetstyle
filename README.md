@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+steetstyle's+GitHub+Profile!)](https://git.io/typing-svg)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steetstyle&repo=Girift)](https://github.com/steetstyle/Girift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steetstyle&repo=LearnAsOur)](https://github.com/steetstyle/LearnAsOur)
-
-
 ### A few things about me
 
 - 💻 I'm programmer, designer, physics lover and student
